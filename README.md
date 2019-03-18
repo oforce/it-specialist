@@ -4,7 +4,7 @@ At Openforce we work in fast paced environment that requires a mix of existing k
 
 1. Copy and Paste (or Download) the questions below.
 2. Answer the questions to teh best of your ability.  
-3. Email development@oforce.com the questions and answeers with subject “**IT Specialist Candidate - Your Name**"
+3. Email development@oforce.com the questions and answers with subject “**IT Specialist Candidate - Your Name**"
 
 
 ## Networking
