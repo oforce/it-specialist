@@ -9,52 +9,52 @@ At Openforce we work in a fast paced environment that requires a mix of existing
 
 ## Networking
 
-What is DHCP?
+1. What is DHCP?
 
-What is DNS?
+2. What is DNS?
 
-What is VPN?
+3. What is VPN?
 
-How can you find the path a packet takes to its destination?
+4. How can you find the path a packet takes to its destination?
 
-What is an IP Address and how to find it?
+5. What is an IP Address and how to find it?
 
-What is Active Directory?
+6. What is Active Directory?
 
-When using Remote Desktop, you come to realize that the remote computer is not reachable by using a Host Name. What would be the troubleshooting steps to take in order to resolve this issue? Keep in mind that remote computer is turned on/awake and on the same physical network.
+7. When using Remote Desktop, you come to realize that the remote computer is not reachable by using a Host Name. What would be the troubleshooting steps to take in order to resolve this issue? Keep in mind that remote computer is turned on/awake and on the same physical network.
 
 ## Desktop
 
-What is a .PST file?
+8. What is a .PST file?
 
-What is the use of Safe Mode?  When are some times you would use it?
+9. What is the use of Safe Mode?  When are some times you would use it?
 
-How do you start in Safe Mode?
+10. How do you start in Safe Mode?
 
-What is the use of the Boot.ini file?
+11. What is the use of the Boot.ini file?
 
-How do I edit the Boot.ini file?
+12. How do I edit the Boot.ini file?
 
-What command(s) can I use to check a machines IP configuration?  Windows, Mac, Linux?
+13. What command(s) can I use to check a machines IP configuration?  Windows, Mac, Linux?
 
-Windows can not currently check for updates; what could be the possible reasons?
+14. Windows can not currently check for updates; what could be the possible reasons?
 
-Some is reporting their monitor is no longer working.  What do you do?
+15. Some is reporting their monitor is no longer working.  What do you do?
 
-A New printer needs to be configured for use by a specific department. How would you go about installing this printer in Direct IP Printing setup?
+16. A New printer needs to be configured for use by a specific department. How would you go about installing this printer in Direct IP Printing setup?
 
-If your system is infected by a virus how you will recover the data?
+17. If your system is infected by a virus how you will recover the data?
 
 
 ## How You Work
 
-You show up at the office and no one can login to their machines.  The ticketing system has 50 unassigned tickets. What would you prioritize and how would you go about dealing with both problems.
+18. You show up at the office and no one can login to their machines.  The ticketing system has 50 unassigned tickets. What would you prioritize and how would you go about dealing with both problems.
 
-Explain a situation in which your had to deal with a difficult problem and how you went about resolving it.
+19. Explain a situation in which your had to deal with a difficult problem and how you went about resolving it.
 
-What is your troubleshooting process?
+20. What is your troubleshooting process?
 
-Is technical knowledge or customer service more important?  Why?
+21. Is technical knowledge or customer service more important?  Why?
 
 
 
