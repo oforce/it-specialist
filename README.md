@@ -1,9 +1,9 @@
 # IT Specialist
 
-At Openforce we work in fast paced environment that requires a mix of existing knowledge with an ability to learn fast and troubleshoot effectively. We feel the best way to measure how someone would work with our team is to understand how they  think and what they know.  The following steps make up the technical interview. 
+At Openforce we work in a fast paced environment that requires a mix of existing knowledge with an ability to learn fast and troubleshoot effectively. The following steps make up the first round technical interview. 
 
-1. Copy and Paste (or Download) the questions below.
-2. Answer the questions to teh best of your ability.  
+1. Copy and Paste (or Download) the questions below into an email.
+2. Answer the questions to the best of your ability.  
 3. Email development@oforce.com the questions and answers with subject “**IT Specialist Candidate - Your Name**"
 
 
